@@ -1,2 +1,1 @@
-# test_repo_demo
-test demo repo crreation
+I am editing the README file. Adding some more details about the project description.
